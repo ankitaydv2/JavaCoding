@@ -111,7 +111,7 @@ public static void main(String[] args) {
         System.out.println("our max subarray is : " +ms);
     }
     public static void main(String[] args) {
-       x int numbers[] = {-2,-3, 4, -1, -2, 1, 5 ,-3};
+        int numbers[] = {-2,-3, 4, -1, -2, 1, 5 ,-3};
        // int numbers[] = {-2,-3, -4, -1, -2, -11,-5 ,-3};
            // printMaxSubarraySum(numbers);
            kadanes(numbers);
