@@ -97,8 +97,7 @@ public class Sorting {
                 arr[prev + 1] = curr ;
             }
             
-        }      
-
+        }     
        public static void main(String[] args) {
        // int arr[] = {5,4,1,3,2};
        Integer arr[] = {5,4,1,3,2}; // only for collection wale k liye bcz int mai hm reverse nhi le skte h 
@@ -108,14 +107,12 @@ public class Sorting {
                                /* INBUILT SORTING */
  // Arrays.sort(arr, 0,3); // hme koi b sorting nhi lgai or yh sort ho gye (Time comp = (n log n ))
 // Arrays.sort(arr, Collections.reverseOrder()); // reverseorder hmesha objectsb pr kam krta h 
- /* jo int tha vo primitive type ka tha . In JAVA do type k variable hote h (1) Object type k (2) Primitive type - Basic DataType
+ /* jo int tha vo primitive type ka tha . In JAVA do type k variable hote h 
+ (1) Object type k (2) Primitive type - Basic DataType
   So jo reverseCollection h vo basic pr kaam nhi krta . Ab Arr[] h vo ab object h ek Integr class ka 
     */
     Arrays.sort(arr,0,3, Collections.reverseOrder()); 
   printArr(arr);
 
-    }
-
-
-
+    } 
 }
