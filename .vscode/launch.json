@@ -1,0 +1,57 @@
+{
+  "type": "java",
+  "name": "Run Hello",
+  "request": "launch",
+"mainClass": "Hello",
+"configurations": [
+  {
+    "type": "java",
+    "name": "polymorphism",
+    "request": "launch",
+    "mainClass": "polymorphism",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "oops",
+    "request": "launch",
+    "mainClass": "oops",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "inheritence",
+    "request": "launch",
+    "mainClass": "inheritence",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Constructor",
+    "request": "launch",
+    "mainClass": "Constructor",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "constructor",
+    "request": "launch",
+    "mainClass": "constructor",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Area",
+    "request": "launch",
+    "mainClass": "Basics.Area",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "hellow",
+    "request": "launch",
+    "mainClass": "hellow",
+    "projectName": "java_d4f8ce43"
+  }
+],
+}
