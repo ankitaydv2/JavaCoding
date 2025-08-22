@@ -6,6 +6,34 @@
 "configurations": [
   {
     "type": "java",
+    "name": "DividenConquer",
+    "request": "launch",
+    "mainClass": "DividenConquer",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "sortingAssign",
+    "request": "launch",
+    "mainClass": "Array.sortingAssign",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "RecursionnBasics",
+    "request": "launch",
+    "mainClass": "RecursionnBasics",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "abstraction",
+    "request": "launch",
+    "mainClass": "abstraction",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "polymorphism",
     "request": "launch",
     "mainClass": "polymorphism",
