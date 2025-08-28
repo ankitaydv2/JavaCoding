@@ -1,9 +1,52 @@
 {
   "type": "java",
+  "version": "0.2.0",
   "name": "Run Hello",
   "request": "launch",
 "mainClass": "Hello",
 "configurations": [
+  {
+    "type": "java",
+    "name": "SodukoSolver",
+    "request": "launch",
+    "mainClass": "Backtracking.SodukoSolver",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "GridWays",
+    "request": "launch",
+    "mainClass": "Backtracking.GridWays",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "NQueens",
+    "request": "launch",
+    "mainClass": "Backtracking.NQueens",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Permutation",
+    "request": "launch",
+    "mainClass": "Backtracking.Permutation",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "FindSubsets",
+    "request": "launch",
+    "mainClass": "Backtracking.FindSubsets",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ArrayBack",
+    "request": "launch",
+    "mainClass": "Backtracking.ArrayBack",
+    "projectName": "java_d4f8ce43"
+  },
   {
     "type": "java",
     "name": "DividenConquer",
