@@ -7,6 +7,41 @@
 "configurations": [
   {
     "type": "java",
+    "name": "patternLoop",
+    "request": "launch",
+    "mainClass": "patternLoop",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "pattern",
+    "request": "launch",
+    "mainClass": "pattern",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "pattern",
+    "request": "launch",
+    "mainClass": "Practise.pattern",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "VarDTque",
+    "request": "launch",
+    "mainClass": "Practise.VarDTque",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Var",
+    "request": "launch",
+    "mainClass": "Practise.Var",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "SodukoSolver",
     "request": "launch",
     "mainClass": "Backtracking.SodukoSolver",
