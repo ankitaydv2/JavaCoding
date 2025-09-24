@@ -7,6 +7,111 @@
 "configurations": [
   {
     "type": "java",
+    "name": "DltNnodesagterMnodeLL",
+    "request": "launch",
+    "mainClass": "LinkList.DltNnodesagterMnodeLL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Intersection",
+    "request": "launch",
+    "mainClass": "LinkList.Intersection",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DoublyLL",
+    "request": "launch",
+    "mainClass": "LinkList.DoublyLL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ZigZag",
+    "request": "launch",
+    "mainClass": "ArrayList.ZigZag",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MergeSortLL",
+    "request": "launch",
+    "mainClass": "ArrayList.MergeSortLL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DetectCycle",
+    "request": "launch",
+    "mainClass": "ArrayList.DetectCycle",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Palindrome",
+    "request": "launch",
+    "mainClass": "LinkList.Palindrome",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DeleteNthNode",
+    "request": "launch",
+    "mainClass": "LinkList.DeleteNthNode",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ReverseLL",
+    "request": "launch",
+    "mainClass": "LinkList.ReverseLL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LinkedList",
+    "request": "launch",
+    "mainClass": "LinkList.LinkedList",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "PairSum1",
+    "request": "launch",
+    "mainClass": "ArrayList.PairSum1",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MostWater",
+    "request": "launch",
+    "mainClass": "ArrayList.MostWater",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MultidimensionalAL",
+    "request": "launch",
+    "mainClass": "ArrayList.MultidimensionalAL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ReverseAL",
+    "request": "launch",
+    "mainClass": "ArrayList.ReverseAL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Classroom",
+    "request": "launch",
+    "mainClass": "ArrayList.Classroom",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "patternLoop",
     "request": "launch",
     "mainClass": "patternLoop",

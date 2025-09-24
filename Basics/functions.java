@@ -118,7 +118,7 @@ Scanner sc = new Scanner(System.in);
 // only for  n >=2
 public static boolean isPrime(int n){
     // corner cases
-    //2\
+    //2
     if(n==2){
         return true;
     }
