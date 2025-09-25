@@ -7,6 +7,62 @@
 "configurations": [
   {
     "type": "java",
+    "name": "NxtGreaterElmnt",
+    "request": "launch",
+    "mainClass": "Stack.NxtGreaterElmnt",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StackSpan",
+    "request": "launch",
+    "mainClass": "Stack.StackSpan",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "RevStack",
+    "request": "launch",
+    "mainClass": "Stack.RevStack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ReverseStr",
+    "request": "launch",
+    "mainClass": "Stack.ReverseStr",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "PushAtBottom",
+    "request": "launch",
+    "mainClass": "Stack.PushAtBottom",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Stack",
+    "request": "launch",
+    "mainClass": "Stack.Stack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StackLL",
+    "request": "launch",
+    "mainClass": "Stack.StackLL",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StackB",
+    "request": "launch",
+    "mainClass": "Stack.StackB",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "DltNnodesagterMnodeLL",
     "request": "launch",
     "mainClass": "LinkList.DltNnodesagterMnodeLL",
