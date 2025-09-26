@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "Histogram",
+    "request": "launch",
+    "mainClass": "Stack.Histogram",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DuplicatePrnths",
+    "request": "launch",
+    "mainClass": "Stack.DuplicatePrnths",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ValidParantheses",
+    "request": "launch",
+    "mainClass": "Stack.ValidParantheses",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "NxtGreaterElmnt",
     "request": "launch",
     "mainClass": "Stack.NxtGreaterElmnt",
