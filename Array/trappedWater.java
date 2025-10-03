@@ -1,7 +1,5 @@
 package Array;
 
-import java.util.*;
-
 public class trappedWater {
     public static int trappedRainwater(int height[]) { // O(n)
         // calculate left max boundary

@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "LLQue",
+    "request": "launch",
+    "mainClass": "Queue.LLQue",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "CircularQue",
+    "request": "launch",
+    "mainClass": "Queue.CircularQue",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ArrayinQue",
+    "request": "launch",
+    "mainClass": "Queue.ArrayinQue",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "Histogram",
     "request": "launch",
     "mainClass": "Stack.Histogram",
