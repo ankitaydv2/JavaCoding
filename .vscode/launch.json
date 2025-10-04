@@ -7,6 +7,62 @@
 "configurations": [
   {
     "type": "java",
+    "name": "QueueUsngDeque",
+    "request": "launch",
+    "mainClass": "Queue.QueueUsngDeque",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StckUsngDeque",
+    "request": "launch",
+    "mainClass": "Queue.StckUsngDeque",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StcknQueUsngDeque",
+    "request": "launch",
+    "mainClass": "Queue.StcknQueUsngDeque",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Stck",
+    "request": "launch",
+    "mainClass": "Queue.Stck",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Stack",
+    "request": "launch",
+    "mainClass": "Queue.Stack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Dequer",
+    "request": "launch",
+    "mainClass": "Queue.Dequer",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "QueReverse",
+    "request": "launch",
+    "mainClass": "Queue.QueReverse",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "InterLeaves",
+    "request": "launch",
+    "mainClass": "Queue.InterLeaves",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "NonRptngLtrs",
     "request": "launch",
     "mainClass": "Queue.NonRptngLtrs",
