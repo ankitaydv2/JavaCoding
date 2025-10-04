@@ -7,6 +7,20 @@
 "configurations": [
   {
     "type": "java",
+    "name": "NonRptngLtrs",
+    "request": "launch",
+    "mainClass": "Queue.NonRptngLtrs",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StackUsng2Que",
+    "request": "launch",
+    "mainClass": "Queue.StackUsng2Que",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "LLQue",
     "request": "launch",
     "mainClass": "Queue.LLQue",
