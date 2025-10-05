@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "SearchInsert",
+    "request": "launch",
+    "mainClass": "SearchInsert",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LinearSearch",
+    "request": "launch",
+    "mainClass": "LinearSearch",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "search",
+    "request": "launch",
+    "mainClass": "Array.search",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "QueueUsngDeque",
     "request": "launch",
     "mainClass": "Queue.QueueUsngDeque",
