@@ -7,6 +7,55 @@
 "configurations": [
   {
     "type": "java",
+    "name": "ChocolaPrblm",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.ChocolaPrblm",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "JobSequencing",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.JobSequencing",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "IndianCoins",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.IndianCoins",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ChainOfPairs",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.ChainOfPairs",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MinAbsDiff",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.MinAbsDiff",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Knapsack",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.Knapsack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ActivitySelection",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.ActivitySelection",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "SearchInsert",
     "request": "launch",
     "mainClass": "SearchInsert",
