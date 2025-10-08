@@ -7,6 +7,20 @@
 "configurations": [
   {
     "type": "java",
+    "name": "KthLargOddNo",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.KthLargOddNo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MaxStrng",
+    "request": "launch",
+    "mainClass": "GreedyAlgo.MaxStrng",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "ChocolaPrblm",
     "request": "launch",
     "mainClass": "GreedyAlgo.ChocolaPrblm",
