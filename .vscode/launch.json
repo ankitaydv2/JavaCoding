@@ -7,6 +7,20 @@
 "configurations": [
   {
     "type": "java",
+    "name": "Diameter2",
+    "request": "launch",
+    "mainClass": "Trees.Diameter2",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Diameter",
+    "request": "launch",
+    "mainClass": "Trees.Diameter",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "TreeHeight",
     "request": "launch",
     "mainClass": "Trees.TreeHeight",
