@@ -7,6 +7,20 @@
 "configurations": [
   {
     "type": "java",
+    "name": "TopView",
+    "request": "launch",
+    "mainClass": "Trees.TopView",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "SubTree",
+    "request": "launch",
+    "mainClass": "Trees.SubTree",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "Diameter2",
     "request": "launch",
     "mainClass": "Trees.Diameter2",
