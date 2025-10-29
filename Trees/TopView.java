@@ -50,7 +50,7 @@ public class TopView {
             }
             if(curr.node.right != null){
                 q.add(new Info(curr.node.right, curr.hd+1));
-                max = Math.max(min, curr.hd+1);
+                max = Math.max(max, curr.hd+1);
             }
             }
             
