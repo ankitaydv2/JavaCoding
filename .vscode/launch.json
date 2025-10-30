@@ -7,6 +7,48 @@
 "configurations": [
   {
     "type": "java",
+    "name": "TransformSumTree",
+    "request": "launch",
+    "mainClass": "Trees.TransformSumTree",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "kthAncstr",
+    "request": "launch",
+    "mainClass": "Trees.kthAncstr",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MinDist",
+    "request": "launch",
+    "mainClass": "Trees.MinDist",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "lastCmnAncster",
+    "request": "launch",
+    "mainClass": "Trees.lastCmnAncster",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "kLevelTree",
+    "request": "launch",
+    "mainClass": "Trees.kLevelTree",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "KLevelTree",
+    "request": "launch",
+    "mainClass": "Trees.KLevelTree",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "TopView",
     "request": "launch",
     "mainClass": "Trees.TopView",
