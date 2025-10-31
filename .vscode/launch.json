@@ -7,6 +7,62 @@
 "configurations": [
   {
     "type": "java",
+    "name": "MirrorBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.MirrorBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ValidBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.ValidBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ValidBST$Root2Leaf",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.ValidBST$Root2Leaf",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Root2Leaf",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.Root2Leaf",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "PrintinRange",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.PrintinRange",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DeleteNode",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.DeleteNode",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "SearchBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.SearchBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BuildBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.BuildBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "TransformSumTree",
     "request": "launch",
     "mainClass": "Trees.TransformSumTree",
