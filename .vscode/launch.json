@@ -7,6 +7,41 @@
 "configurations": [
   {
     "type": "java",
+    "name": "Merge2BST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.Merge2BST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "SzLrgstBSTin",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.SzLrgstBSTin",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BSTtoBalancedBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.BSTtoBalancedBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "SortedArrBalncedBst",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.SortedArrBalncedBst",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "SortedArrBalancedBST",
+    "request": "launch",
+    "mainClass": "BinarySearchTree.SortedArrBalancedBST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "MirrorBST",
     "request": "launch",
     "mainClass": "BinarySearchTree.MirrorBST",
