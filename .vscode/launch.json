@@ -7,6 +7,62 @@
 "configurations": [
   {
     "type": "java",
+    "name": "SlidingWindow",
+    "request": "launch",
+    "mainClass": "PriorityQueue.SlidingWindow",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "WeakestSoldier",
+    "request": "launch",
+    "mainClass": "PriorityQueue.WeakestSoldier",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MinCostNRopes",
+    "request": "launch",
+    "mainClass": "PriorityQueue.MinCostNRopes",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "NearbyCars",
+    "request": "launch",
+    "mainClass": "PriorityQueue.NearbyCars",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "HeapSort",
+    "request": "launch",
+    "mainClass": "PriorityQueue.HeapSort",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "InsertHeap",
+    "request": "launch",
+    "mainClass": "PriorityQueue.InsertHeap",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ObjectsPQ",
+    "request": "launch",
+    "mainClass": "PriorityQueue.ObjectsPQ",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "FunctnsPQ",
+    "request": "launch",
+    "mainClass": "PriorityQueue.FunctnsPQ",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "Merge2BST",
     "request": "launch",
     "mainClass": "BinarySearchTree.Merge2BST",
