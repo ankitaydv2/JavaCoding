@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "Implementation$HashMap",
+    "request": "launch",
+    "mainClass": "HashMap.Implementation$HashMap",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Interation",
+    "request": "launch",
+    "mainClass": "HashMap.Interation",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Operations",
+    "request": "launch",
+    "mainClass": "HashMap.Operations",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "SlidingWindow",
     "request": "launch",
     "mainClass": "PriorityQueue.SlidingWindow",
