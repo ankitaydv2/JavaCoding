@@ -15,7 +15,7 @@ public class Implementation {
 
         private int size; // n = size
         private int N ; // N = bucket.length
-        private LinkedList<Node> buckets[]; // N = buckets.length
+        private LinkedList<Node> buckets[]; 
 
         //@SupperssWarnings("unchecked")
         public HashMap(){

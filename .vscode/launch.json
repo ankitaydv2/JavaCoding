@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "ValidAnagram",
+    "request": "launch",
+    "mainClass": "HashMap.ValidAnagram",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "MajorityElem",
+    "request": "launch",
+    "mainClass": "HashMap.MajorityElem",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LinkedHM",
+    "request": "launch",
+    "mainClass": "HashMap.LinkedHM",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "Implementation$HashMap",
     "request": "launch",
     "mainClass": "HashMap.Implementation$HashMap",
