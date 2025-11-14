@@ -7,6 +7,34 @@
 "configurations": [
   {
     "type": "java",
+    "name": "UnionNIntersec",
+    "request": "launch",
+    "mainClass": "HashMap.UnionNIntersec",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "CountDistinctElem",
+    "request": "launch",
+    "mainClass": "HashMap.CountDistinctElem",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "IterationHashSet",
+    "request": "launch",
+    "mainClass": "HashMap.IterationHashSet",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "HashSetOper",
+    "request": "launch",
+    "mainClass": "HashMap.HashSetOper",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "ValidAnagram",
     "request": "launch",
     "mainClass": "HashMap.ValidAnagram",
