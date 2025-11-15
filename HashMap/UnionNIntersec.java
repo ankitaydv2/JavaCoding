@@ -31,8 +31,6 @@ public class UnionNIntersec {
         }
         System.out.println("Intersection = " + count);
 
-    }
-
-     
+    }    
     
 }
