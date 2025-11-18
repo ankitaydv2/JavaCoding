@@ -7,6 +7,41 @@
 "configurations": [
   {
     "type": "java",
+    "name": "LongestWordwithAllPrefixes",
+    "request": "launch",
+    "mainClass": "Tries.LongestWordwithAllPrefixes",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "startsWithPrblm",
+    "request": "launch",
+    "mainClass": "Tries.startsWithPrblm",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "PrefixProblem",
+    "request": "launch",
+    "mainClass": "Tries.PrefixProblem",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "WordBreakPrblm",
+    "request": "launch",
+    "mainClass": "Tries.WordBreakPrblm",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Creating",
+    "request": "launch",
+    "mainClass": "Tries.Creating",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "SubArraySum",
     "request": "launch",
     "mainClass": "HashMap.SubArraySum",
