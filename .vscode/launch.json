@@ -7,6 +7,34 @@
 "configurations": [
   {
     "type": "java",
+    "name": "HasPath",
+    "request": "launch",
+    "mainClass": "Graphs.HasPath",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DFSgraph",
+    "request": "launch",
+    "mainClass": "Graphs.DFSgraph",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BFSgraph",
+    "request": "launch",
+    "mainClass": "Graphs.BFSgraph",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "Create",
+    "request": "launch",
+    "mainClass": "Graphs.Create",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "LongestWordwithAllPrefixes",
     "request": "launch",
     "mainClass": "Tries.LongestWordwithAllPrefixes",
