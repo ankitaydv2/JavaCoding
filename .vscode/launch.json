@@ -7,6 +7,41 @@
 "configurations": [
   {
     "type": "java",
+    "name": "TopologicalSorting",
+    "request": "launch",
+    "mainClass": "Graphs.TopologicalSorting",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "CycleDetectionDirected",
+    "request": "launch",
+    "mainClass": "Graphs.CycleDetectionDirected",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BipartiteGraph",
+    "request": "launch",
+    "mainClass": "Graphs.BipartiteGraph",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "CycleDetection",
+    "request": "launch",
+    "mainClass": "Graphs.CycleDetection",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ConnectedBFS",
+    "request": "launch",
+    "mainClass": "Graphs.ConnectedBFS",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "HasPath",
     "request": "launch",
     "mainClass": "Graphs.HasPath",
