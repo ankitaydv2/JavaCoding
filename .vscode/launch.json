@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "DijkstrasALgo",
+    "request": "launch",
+    "mainClass": "Graphs.DijkstrasALgo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "AllPath",
+    "request": "launch",
+    "mainClass": "Graphs.AllPath",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "TopologySort",
+    "request": "launch",
+    "mainClass": "Graphs.TopologySort",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "TopologicalSorting",
     "request": "launch",
     "mainClass": "Graphs.TopologicalSorting",
