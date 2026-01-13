@@ -7,6 +7,55 @@
 "configurations": [
   {
     "type": "java",
+    "name": "KruskalsAlgo",
+    "request": "launch",
+    "mainClass": "Graphs.KruskalsAlgo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "DisjointSet",
+    "request": "launch",
+    "mainClass": "Graphs.DisjointSet",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ConnectingCities",
+    "request": "launch",
+    "mainClass": "Graphs.ConnectingCities",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "FlightswithinKstops",
+    "request": "launch",
+    "mainClass": "Graphs.FlightswithinKstops",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "PrimsAlgo",
+    "request": "launch",
+    "mainClass": "Graphs.PrimsAlgo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BellmanFord2",
+    "request": "launch",
+    "mainClass": "Graphs.BellmanFord2",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "BellmanFordAlgo",
+    "request": "launch",
+    "mainClass": "Graphs.BellmanFordAlgo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "DijkstrasALgo",
     "request": "launch",
     "mainClass": "Graphs.DijkstrasALgo",
