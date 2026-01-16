@@ -7,6 +7,48 @@
 "configurations": [
   {
     "type": "java",
+    "name": "UnboundedKnapsack",
+    "request": "launch",
+    "mainClass": "DP.UnboundedKnapsack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "TargetSum",
+    "request": "launch",
+    "mainClass": "DP.TargetSum",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "knapsackTab",
+    "request": "launch",
+    "mainClass": "DP.knapsackTab",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "knapsack_Memoization",
+    "request": "launch",
+    "mainClass": "DP.knapsack_Memoization",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "knapsack",
+    "request": "launch",
+    "mainClass": "DP.knapsack",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ClimbingStairs",
+    "request": "launch",
+    "mainClass": "DP.ClimbingStairs",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "KruskalsAlgo",
     "request": "launch",
     "mainClass": "Graphs.KruskalsAlgo",
