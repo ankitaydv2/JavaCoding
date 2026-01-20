@@ -7,6 +7,20 @@
 "configurations": [
   {
     "type": "java",
+    "name": "RodCutting",
+    "request": "launch",
+    "mainClass": "DP.RodCutting",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "CoinChange",
+    "request": "launch",
+    "mainClass": "DP.CoinChange",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "UnboundedKnapsack",
     "request": "launch",
     "mainClass": "DP.UnboundedKnapsack",
