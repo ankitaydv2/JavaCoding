@@ -7,6 +7,27 @@
 "configurations": [
   {
     "type": "java",
+    "name": "LCStab",
+    "request": "launch",
+    "mainClass": "DP.LCStab",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LCSMemo",
+    "request": "launch",
+    "mainClass": "DP.LCSMemo",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LCSRecsn",
+    "request": "launch",
+    "mainClass": "DP.LCSRecsn",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "RodCutting",
     "request": "launch",
     "mainClass": "DP.RodCutting",
