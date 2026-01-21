@@ -7,6 +7,55 @@
 "configurations": [
   {
     "type": "java",
+    "name": "CatalanNum",
+    "request": "launch",
+    "mainClass": "DP.CatalanNum",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "WildCardMatching",
+    "request": "launch",
+    "mainClass": "DP.WildCardMatching",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "StringConversion",
+    "request": "launch",
+    "mainClass": "DP.StringConversion",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "EditDistance",
+    "request": "launch",
+    "mainClass": "DP.EditDistance",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LIS",
+    "request": "launch",
+    "mainClass": "DP.LIS",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LCSubstring",
+    "request": "launch",
+    "mainClass": "DP.LCSubstring",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "LCSubstring",
+    "request": "launch",
+    "mainClass": "LinkList.LCSubstring",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "LCStab",
     "request": "launch",
     "mainClass": "DP.LCStab",
