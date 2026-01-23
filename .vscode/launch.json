@@ -7,6 +7,34 @@
 "configurations": [
   {
     "type": "java",
+    "name": "MaxEleQ",
+    "request": "launch",
+    "mainClass": "SegmentTrees.MaxEleQ",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "UpdateST",
+    "request": "launch",
+    "mainClass": "SegmentTrees.UpdateST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "QueryST",
+    "request": "launch",
+    "mainClass": "SegmentTrees.QueryST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
+    "name": "ConstructST",
+    "request": "launch",
+    "mainClass": "SegmentTrees.ConstructST",
+    "projectName": "java_d4f8ce43"
+  },
+  {
+    "type": "java",
     "name": "MinJumps",
     "request": "launch",
     "mainClass": "DP.MinJumps",
